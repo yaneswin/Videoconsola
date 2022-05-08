@@ -17,10 +17,6 @@ Boton (Star) encendido:
 
 ![Imagen3](https://user-images.githubusercontent.com/105054694/167313464-472dce16-5427-4e29-b904-fe6f9ab429a2.jpg)
 
-A continuación un short de demostración:
-
-https://user-images.githubusercontent.com/105054694/167315677-2710370c-ee34-4b70-a133-f625b3c59562.mp4
-
 
 
 
