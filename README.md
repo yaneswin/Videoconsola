@@ -1,4 +1,4 @@
-# Videoconsola
+# Proyecto Videoconsola
 Primer Proyecto Videoconsola en el Bootcamp Full Stack Developer de GeeksHubs Academy.
 
 En mi primer proyecto con una semana de aprendizaje desde un absoluto cero en en ésta materia, incluyendo ésta plataforma (GitHub), intento replicar utilizando HTML5 y CSS3 el mando de una consola antigua de Nintendo.
